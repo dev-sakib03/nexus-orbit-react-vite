@@ -16,4 +16,4 @@ A modern, responsive, and minimalistic landing page built with React and Vite. T
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/dev-sakib03/nexus-orbit-react-vite>
+   git clone https://github.com/dev-sakib03/nexus-orbit-react-vite
